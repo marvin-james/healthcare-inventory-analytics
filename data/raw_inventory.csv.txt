@@ -1,0 +1,7 @@
+item_id,item_name,department,quantity_in_stock,quantity_used,restock_level,unit_cost,date
+101,Gloves,ER,500,120,300,0.50,2024-01-05
+102,Masks,ICU,800,300,500,0.30,2024-01-06
+103,Syringes,ER,600,200,400,0.20,2024-01-07
+104,IV Kits,ICU,200,150,250,15.00,2024-01-08
+105,Bandages,General Ward,1000,100,600,0.10,2024-01-09
+
